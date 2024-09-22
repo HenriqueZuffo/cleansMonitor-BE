@@ -8,5 +8,4 @@ Repository for university work
 
 ### Todo - Crud
 - [x] Tips
-- [ ] Location
-- [ ] Teach
+- [x] Location
