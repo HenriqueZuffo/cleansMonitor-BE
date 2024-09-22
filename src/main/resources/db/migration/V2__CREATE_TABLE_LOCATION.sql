@@ -1,0 +1,5 @@
+CREATE TABLE LOCATION(
+    id SERIAL PRIMARY KEY,
+    latitude DECIMAL(9, 6) NOT NULL,
+    longitude DECIMAL(9, 6) NOT NULL
+)
